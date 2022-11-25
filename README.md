@@ -1,2 +1,2 @@
 # ORI-AAAA
-Authentication and Access Draft protocol for ORI's upcoming Digital HAM Amateur satellite 
+Authentication and Access Draft protocol for ORI's upcoming Digital Amateur HAM satellite, Phase4Ground (P4G)

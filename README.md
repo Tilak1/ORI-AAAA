@@ -1,2 +1,5 @@
 # ORI-AAAA
-Authentication and Access Draft protocol for ORI's upcoming Digital Amateur HAM satellite, Phase4Ground (P4G)
+Poster Title: AAAAA – Assembly, Acquisition, Access, Authentication, & Authorization Protocol for Phase 4 Ground (P4G) – A Digital Amateur Radio Satellite System 
+
+Authors: Paul Williamson, Tilak Marupilla, Michelle Thompson from Open Research Institute, In
+Poster Prepared by: Tilak Marupilla
